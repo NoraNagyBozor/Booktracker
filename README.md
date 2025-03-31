@@ -90,6 +90,7 @@ The application uses an SQLite database with two tables:
 
 ## Author
 Developed for BookTracker Management System.
+Created by Nora Nagy-Bozor
 
 ## License
 This project is open-source and available for use and modification.
